@@ -121,7 +121,7 @@
 <body>
     <div class="chat-container">
         <div class="chat-header">
-            <h1>Spring Chatbot</h1>
+            <h1>Spring Chatbot(test)</h1>
             <!-- 수정: 헤더에 대화 기록 페이지로 이동하는 링크 추가 -->
             <div class="header-link">
                 <a href="/history">View History</a>
